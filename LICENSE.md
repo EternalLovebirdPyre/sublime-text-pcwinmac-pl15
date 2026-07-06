@@ -1,4 +1,4 @@
-# 
+# Seguro Sublime Text predefinições para Mac OS | Personalizado Sublime Text predefinições para PC Windows. Com cliente REST e Docker Compose — otimizado para máximo desempenho em cada plataforma.
 
 
 
